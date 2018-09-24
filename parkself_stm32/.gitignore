@@ -1,0 +1,6 @@
+.pioenvs
+.piolibdeps
+.vscode
+.vscode/c_cpp_properties.json
+.vscode/*.db
+.vscode/launch.json

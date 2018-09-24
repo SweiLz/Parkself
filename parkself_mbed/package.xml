@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>parkself_mbed</name>
+  <version>0.0.1</version>
+  <description>ROS packages for the parkself_mbed package</description>
+  <license>BSD</license>
+  <maintainer email="sweilz.w@gmail.com">sweilz</maintainer>
+  <!-- <author email="....@......com">some one</author> -->
+  <url type="repository">https://github.com/FIBO-KMUTT/Parkself</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export></export>
+</package>
